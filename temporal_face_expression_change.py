@@ -1,3 +1,5 @@
+#### Please refer to the readme for details #####
+
 import csv
 import matplotlib.pyplot as plt
 
